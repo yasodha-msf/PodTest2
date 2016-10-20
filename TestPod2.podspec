@@ -18,8 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = 'This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.'
-TODO: Add long description of the pod here.
-                       DESC
+
 
   s.homepage         = 'https://github.com/yasodha-msf/TestPod2'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
